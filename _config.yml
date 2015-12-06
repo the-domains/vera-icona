@@ -1,7 +1,7 @@
 name: Vera Icona
 favicon: null
-layout_spectrum: 0.7384688532911241
-typography_spectrum: 0.19566162629052997
+layout_spectrum: 0.25
+typography_spectrum: 0.4215
 cta:
   domain: null
   bucket: null
@@ -16,11 +16,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#ADD7F6'
-    - '#87BFFF'
-    - '#3F8EFC'
-    - '#2667FF'
-    - '#3B28CC'
+    - '#008cff'
+    - '#fdfdfb'
+    - '#dfbc00'
+    - '#00053c'
+    - '#de006d'
   brandStrength: 0.28534663445316255
   lightness: 0.060592999681830406
   saturation: 0.2890802910551429
