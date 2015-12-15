@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Vera Icona]]></title>
         <description><![CDATA[Vera Icona]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/vera-icona/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 06 Dec 2015 07:46:54 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 15 Dec 2015 13:55:22 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/vera-icona/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d6ef1f3a-9e97-45b5-a48c-15d3125b9cab.jpg">]]></description>
+            <link>https://thegrid.ai/vera-icona/8868162c-b348-47ed-9ee2-6756ec21fd35/index.html</link>
+            <guid isPermaLink="false">8868162c-b348-47ed-9ee2-6756ec21fd35</guid>
+            <pubDate>Tue, 15 Dec 2015 13:55:07 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Getting Started on The Grid]]></title>
             <description><![CDATA[<article><h1>Getting Started on The Grid</h1><h2>Creating a Site</h2><p>Welcome to The Grid Beta, we’re excited to have you onboard! Here are a few quick tips to get you up and running. </p></article>]]></description>
-            <link>undefinedgetting-started-on-the-grid/index.html</link>
+            <link>https://thegrid.ai/vera-icona/getting-started-on-the-grid/index.html</link>
             <guid isPermaLink="false">fdb0d3cb-645d-45e3-8714-edc2bd65186c</guid>
             <pubDate>Sun, 06 Dec 2015 07:46:46 GMT</pubDate>
         </item>
